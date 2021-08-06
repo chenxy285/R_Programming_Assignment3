@@ -11,6 +11,8 @@ This assignment only look at a small subset of the data from the Hospital Compar
 - _Hospital_Revised_Flatfiles.pdf_: Descriptions of the variables in each file (i.e the code book).
 
 ## Codes
-- _best_task2.csv_:
-- _rankhospital_task3.csv_: 
-- _rankall2_task4.csv_: 
+- _best_task2.csv_: Find the best hospital in a state
+- _rankhospital_task3.csv_: Ranking hospitals by outcome in a state
+- _rankall2_task4.csv_: Ranking hospitals in all states
+
+## For more information of this project, please refer to _ProjectAssignment_instruction.pdf_.
