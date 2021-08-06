@@ -15,4 +15,4 @@ This assignment only look at a small subset of the data from the Hospital Compar
 - _rankhospital_task3.csv_: Ranking hospitals by outcome in a state
 - _rankall2_task4.csv_: Ranking hospitals in all states
 
-## For more information of this project, please refer to _ProjectAssignment_instruction.pdf_.
+For more information of this project, please refer to _ProjectAssignment_instruction.pdf_.
